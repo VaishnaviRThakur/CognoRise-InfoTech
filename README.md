@@ -2,7 +2,9 @@
 Part of internship at CognoRise-InfoTech
 
 TASK 1
+
 **UNEMPLOYMENT IN INDIA**
+
 • Unemployment is measured by the unemployment rate which is the 
 number of people who are unemployed as a percentage of the total labour 
 force. 
@@ -10,14 +12,18 @@ force.
 • so analyzing the unemployment rate can be a good data science project.
 
 TASK 2
+
 **80 CEREALS**
+
 • If you like to eat cereal, do yourself a favor and avoid this dataset at all 
 costs. After seeing these data it will never be the same for me to eat Fruity 
 Pebbles again.
 • Do an explained data analysis 
 
 TASK 5
+
 **EMPLOYEE SALARIES FOR DIFFERENT JOB ROLS**
+
 • Welcome to the Employee Salaries for Different Job Roles Dataset! This dataset 
 provides valuable insights into the compensation and job roles of employees 
 across various industries and regions. 
